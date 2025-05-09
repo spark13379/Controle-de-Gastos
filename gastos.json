@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "categoria": "Alimentação",
+        "valor": 25.5,
+        "descricao": "Almoço",
+        "data": "09/05/2025"
+    },
+    {
+        "categoria": "Transporte",
+        "valor": 10.0,
+        "descricao": "Ônibus",
+        "data": "09/05/2025"
+    }
+]
